@@ -33,6 +33,6 @@ A powerful TCP packet sniffer with a modern Tkinter GUI built using Python and S
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/packet-sniffer-gui.git
+git clone https://github.com/11gurmeet11/packet-sniffer-gui.git
 cd packet-sniffer-gui
 pip install scapy
